@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;600&display=swap');
+
+body {
+  font-family: 'Libre Franklin', sans-serif;
+  color: #5a6e94;
+}
+
+
+.navbar {
+  background-color: #f2f3f8;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.navbar-brand {
+  font-weight: 600;
+  color: #2b3b66 !important;
+}
+
+.nav-link {
+  color: #5a6e94 !important;
+  margin-right: 0.75rem;
+}
+
+.nav-link.active {
+  color: #1f2a44 !important;
+}
+
